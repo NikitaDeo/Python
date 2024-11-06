@@ -11,4 +11,4 @@ class Solution:
 solution = Solution()
 print(solution.isCircularSentence("leetcode exercises sound delightful"))
 print(solution.isCircularSentence("eetcode"))  
-print(solution.isCircularSentence("Leetcode is cool"))
+print(solution.isCircularSentence("Leetcode is cool"))  
